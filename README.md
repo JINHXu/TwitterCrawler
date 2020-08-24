@@ -1,5 +1,5 @@
 # Twitter Crawler through Twitter's API 
-_though there are issues with Twitter's API, view this [closed issue]() in Tweepy._
+_though there are issues with Twitter's API, view this [closed issue](https://github.com/tweepy/tweepy/issues/1361) in Tweepy._
 ### to build a small corpus and print some statistics.
 
 ## The functions
